@@ -1,0 +1,22 @@
+{
+  "name": "РОЭНЦ — Общество Целителей Казахстана",
+  "short_name": "РОЭНЦ",
+  "description": "Республиканское Общество Народных и Энергетических Целителей",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#FBF7F0",
+  "theme_color": "#B8860B",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "categories": ["health", "education"],
+  "lang": "ru"
+}
